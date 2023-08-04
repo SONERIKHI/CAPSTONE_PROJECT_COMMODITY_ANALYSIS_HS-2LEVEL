@@ -1,0 +1,7 @@
+flask
+pandas
+numpy
+pickle5
+render_template
+request
+scikit-learn
