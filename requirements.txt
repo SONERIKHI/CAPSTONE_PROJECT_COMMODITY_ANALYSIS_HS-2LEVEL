@@ -5,3 +5,4 @@ pickle5
 render_template
 request
 scikit-learn
+gunicorn
