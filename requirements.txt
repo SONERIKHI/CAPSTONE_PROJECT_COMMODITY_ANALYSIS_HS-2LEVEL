@@ -1,8 +1,9 @@
+joblib
 flask
 pandas
+gunicorn
 numpy
 pickle5
-render_template
-request
 scikit-learn
-gunicorn
+tensorflow
+pandas==1.3.4
